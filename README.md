@@ -32,8 +32,13 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
+<br>
 
----
+----
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashrajv17#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-raj-vishwanath#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1oSAukVNV0-sPois5JJVPA#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yashrajv17.github.io/personal_website_yash_17#gh-light-mode-only)  
+
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)

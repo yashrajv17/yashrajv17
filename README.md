@@ -40,20 +40,6 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashrajv17#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-raj-vishwanath#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1oSAukVNV0-sPois5JJVPA#gh-light-mode-only)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yashrajv17.github.io/personal_website_yash_17#gh-light-mode-only)  
 
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/UC1oSAukVNV0-sPois5JJVPA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/UC1oSAukVNV0-sPois5JJVPA#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/yash-raj-vishwanath#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yash-raj-vishwanath#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 

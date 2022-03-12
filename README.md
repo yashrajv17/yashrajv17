@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Yash Raj Vishwanath
 ![](https://media-exp1.licdn.com/dms/image/C5616AQEpnPW_sPJYLQ/profile-displaybackgroundimage-shrink_350_1400/0/1625060051042?e=1652313600&v=beta&t=w0nwaNVoU_TectKCE0Q4KV4GMQgxVYoVa0t39JvskbE)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge)]
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge)
 
 
 I am Yash Raj vishwanath from India, and I do Content on Design & Development. I really Enjoy Learning Languages and Frameworks like React.js and React Native. I also enjoy ui, ux and deisgn in general.

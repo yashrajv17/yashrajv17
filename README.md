@@ -46,9 +46,7 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajv17)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajv17&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashrajv17)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajv17&show_icons=true)   
  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashrajv17)  

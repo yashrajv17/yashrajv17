@@ -3,9 +3,7 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge)
 
-
 I am Yash Raj vishwanath from India, and I do Content on Design & Development. I really Enjoy Learning Languages and Frameworks like React.js and React Native. I also enjoy ui, ux and deisgn in general.
-
 
 - 🔭 I’m currently working on my own company 
 - 🌱 I’m currently learning everything🤣 
@@ -13,7 +11,6 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 - 🥅 2022 Goals: Learn more about web3
 - 📫 How to reach me: yashrajvishwanath@gmail.com 
 - ⚡ Fun fact: I love to read books and play guitar 
-
 
 ### Languages and Tools:
 
@@ -32,7 +29,6 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-<br>
 
 ----
 

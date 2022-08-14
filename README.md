@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/yashrajv17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashrajv17&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajv17&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajv17&langs_count=10&theme=tokyonight&layout=compact" alt="yashrajv17 :: Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashrajv17&show_icons=true&theme=synthwave" alt="yashrajv17 :: Profile Stats"  />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://yashrajv17.github.io/yash_portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.yashraj.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/yash-raj-vishwanath/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash Raj V%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yash-raj-vishwanath/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash Raj-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/YashrajVishwan1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Yash Raj-blue?style=flat-square&logo=instagram"></a>
 <a href="yashrajvishwanath@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yashrajvishwanath@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
@@ -83,7 +83,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="Yash Raj :: Visitor's Count" /></p>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge) 
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -94,5 +93,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yashrajv17&show_icons=true&theme=synthwave" alt="yashrajv17 :: Profile Stats" /></p>
 
   ---
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge) 
   
 ⭐️ From [@Yash](https://github.com/yashrajv17)

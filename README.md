@@ -33,18 +33,8 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 
 <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashrajv17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-raj-vishwanath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1oSAukVNV0-sPois5JJVPA) 
+<h4 align="center">Visitor's count :eyes:</h4>
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashrajv17)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajv17)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajv17&show_icons=true)   
- 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashrajv17)  
+<p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="AnhellO :: Visitor's Count" /></p> 
 
 ![Profile views](https://gpvc.arturio.dev/yashrajv17)  

@@ -1,9 +1,6 @@
 # Yash Raj Vishwanath
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge)
-
-
-<h2 align="center">About me</h2>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge) <h2 align="center">About me</h2>
 
 ```golang
 package main

@@ -35,6 +35,6 @@ I am Yash Raj vishwanath from India, and I do Content on Design & Development. I
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="AnhellO :: Visitor's Count" /></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="yashrajv17 :: Visitor's Count" /></p> 
 
 ![Profile views](https://gpvc.arturio.dev/yashrajv17)  

@@ -83,15 +83,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="Yash Raj :: Visitor's Count" /></p>
 
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajv17&langs_count=10&theme=tokyonight&layout=compact" alt="yashrajv17 :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yashrajv17&show_icons=true&theme=synthwave" alt="yashrajv17 :: Profile Stats" /></p>
-
   ---
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge) 
   

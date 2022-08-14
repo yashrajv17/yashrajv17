@@ -1,16 +1,9 @@
-### Hi there 👋, my name is Yash Raj Vishwanath
-![](https://media-exp1.licdn.com/dms/image/C5616AQEpnPW_sPJYLQ/profile-displaybackgroundimage-shrink_350_1400/0/1625060051042?e=1652313600&v=beta&t=w0nwaNVoU_TectKCE0Q4KV4GMQgxVYoVa0t39JvskbE)
+# Yash Raj Vishwanath
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1oSAukVNV0-sPois5JJVPA?logo=youtube&logoColor=red&style=for-the-badge)
 
-I am Yash Raj vishwanath from India, and I do Content on Design & Development. I really Enjoy Learning Languages and Frameworks like React.js and React Native. I also enjoy ui, ux and deisgn in general.
 
--
-- 
-- 🥅 2022 Goals: Learn more about web3
-- 📫 How to reach me: yashrajvishwanath@gmail.com 
-- ⚡ Fun fact: I love to read books and play guitar 
-
+<h2 align="center">About me</h2>
 
 ```golang
 package main
@@ -68,7 +61,7 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="<p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="Yash Raj :: Visitor's Count" /></p>" 
+<p align="center"><img src="https://profile-counter.glitch.me/{yashrajv17}/count.svg" alt="Yash Raj :: Visitor's Count" /></p>" 
 
   ---
   
